@@ -1,9 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  this has change 
-  changed from second one
-  plicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
-
-</Project>
