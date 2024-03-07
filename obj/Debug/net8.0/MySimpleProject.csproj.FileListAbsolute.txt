@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\visual_project\MySimpleProject\bin\Debug\net8.0\MySimpleProject.exe
+C:\Users\admin\Documents\visual_project\MySimpleProject\bin\Debug\net8.0\MySimpleProject.deps.json
+C:\Users\admin\Documents\visual_project\MySimpleProject\bin\Debug\net8.0\MySimpleProject.runtimeconfig.json
+C:\Users\admin\Documents\visual_project\MySimpleProject\bin\Debug\net8.0\MySimpleProject.dll
+C:\Users\admin\Documents\visual_project\MySimpleProject\bin\Debug\net8.0\MySimpleProject.pdb
+C:\Users\admin\Documents\visual_project\MySimpleProject\obj\Debug\net8.0\MySimpleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\visual_project\MySimpleProject\obj\Debug\net8.0\MySimpleProject.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\visual_project\MySimpleProject\obj\Debug\net8.0\MySimpleProject.AssemblyInfo.cs
+C:\Users\admin\Documents\visual_project\MySimpleProject\obj\Debug\net8.0\MySimpleProject.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\visual_project\MySimpleProject\obj\Debug\net8.0\MySimpleProject.dll
+C:\Users\admin\Documents\visual_project\MySimpleProject\obj\Debug\net8.0\refint\MySimpleProject.dll
+C:\Users\admin\Documents\visual_project\MySimpleProject\obj\Debug\net8.0\MySimpleProject.pdb
+C:\Users\admin\Documents\visual_project\MySimpleProject\obj\Debug\net8.0\MySimpleProject.genruntimeconfig.cache
+C:\Users\admin\Documents\visual_project\MySimpleProject\obj\Debug\net8.0\ref\MySimpleProject.dll
