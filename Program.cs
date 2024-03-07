@@ -6,6 +6,7 @@ class Program
     static void Main()
     {
 
+// Some changes
         List<int> myList = new List<int>() { 7, 2, 2, 4, 2, 5, 6, 1 };
 
         Console.WriteLine("Original List: " + string.Join(", ", myList));
@@ -53,9 +54,9 @@ class Program
                     j--;     // Adjust j to recheck the current index
                 }
             }
-        }
+        } 
     }
-
+ 
     static void RemoveAt<T>(List<T> list, int index)
     {
         // Remove the element at the specified index manually
