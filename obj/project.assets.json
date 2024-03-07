@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\visual_project\\MySimpleProject\\MySimpleProject.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Downloads\\Windows 11 X64 22H2 22631.2715 Pro incl Office 2021 en-US OCT 2023\\MySimpleProject\\MySimpleProject.csproj",
       "projectName": "MySimpleProject",
-      "projectPath": "C:\\Users\\admin\\Documents\\visual_project\\MySimpleProject\\MySimpleProject.csproj",
+      "projectPath": "C:\\Users\\admin\\Downloads\\Windows 11 X64 22H2 22631.2715 Pro incl Office 2021 en-US OCT 2023\\MySimpleProject\\MySimpleProject.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\visual_project\\MySimpleProject\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Downloads\\Windows 11 X64 22H2 22631.2715 Pro incl Office 2021 en-US OCT 2023\\MySimpleProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

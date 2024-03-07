@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+
+    add foče 3 from second one --- which overlap with this on first one 
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  evo neke promjene i idemo dalje iz downloadsa
+
+</Project>
