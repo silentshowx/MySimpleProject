@@ -6,6 +6,9 @@ class Program
     static void Main()
     {
 
+
+        idemo dalje 
+
 // Some changes
         List<int> myList = new List<int>() { 7, 2, 2, 4, 2, 5, 6, 1 };
 
