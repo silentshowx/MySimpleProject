@@ -2,11 +2,16 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
+
+
+    II
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     add new file4 from second one 
     <Nullable>enable</Nullable>
   </PropertyGroup>
+
+  HHH
 
 </Project>
 
